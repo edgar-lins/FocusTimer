@@ -30,7 +30,7 @@ export default function Controls({
             return false
         }
 
-        newMinutes
+        return newMinutes
     }
 
     return {
